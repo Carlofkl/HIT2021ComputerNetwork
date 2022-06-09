@@ -1,0 +1,13 @@
+﻿  GBN_CLIENT.cpp
+C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\GBN_CLIENT\GBN_CLIENT\GBN_CLIENT.cpp(60,6): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\GBN_CLIENT\GBN_CLIENT\GBN_CLIENT.cpp(146,29): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\GBN_CLIENT\GBN_CLIENT\GBN_CLIENT.cpp(147,26): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\GBN_CLIENT\GBN_CLIENT\GBN_CLIENT.cpp(184,19): warning C4309: “=”: 截断常量值
+C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\GBN_CLIENT\GBN_CLIENT\GBN_CLIENT.cpp(212,19): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\GBN_CLIENT\GBN_CLIENT\GBN_CLIENT.cpp(222,19): warning C4244: “=”: 从“unsigned short”转换到“char”，可能丢失数据
+C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\GBN_CLIENT\GBN_CLIENT\GBN_CLIENT.cpp(129,36): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\GBN_CLIENT\GBN_CLIENT\GBN_CLIENT.cpp(153,9): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\GBN_CLIENT\GBN_CLIENT\GBN_CLIENT.cpp(328,18): warning C4309: “=”: 截断常量值
+C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\GBN_CLIENT\GBN_CLIENT\GBN_CLIENT.cpp(394,20): warning C4309: “=”: 截断常量值
+C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\GBN_CLIENT\GBN_CLIENT\GBN_CLIENT.cpp(438,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  GBN_CLIENT.vcxproj -> C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\GBN_CLIENT\Debug\GBN_CLIENT.exe

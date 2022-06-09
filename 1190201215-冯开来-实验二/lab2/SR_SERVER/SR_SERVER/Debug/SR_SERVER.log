@@ -1,0 +1,6 @@
+﻿  SR_SERVER.cpp
+C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\SR_SERVER\SR_SERVER\SR_SERVER.cpp(1,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\SR_SERVER\SR_SERVER\SR_SERVER.cpp(42,6): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\SR_SERVER\SR_SERVER\SR_SERVER.cpp(170,18): warning C4309: “=”: 截断常量值
+C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\SR_SERVER\SR_SERVER\SR_SERVER.cpp(236,20): warning C4309: “=”: 截断常量值
+  SR_SERVER.vcxproj -> C:\Users\Carlo\Desktop\计网实验\1190201215-冯开来-实验二\lab2\SR_SERVER\Debug\SR_SERVER.exe
